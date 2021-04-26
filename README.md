@@ -1,8 +1,3 @@
-# React-ConcertPlanification
-
-Le planning des concerts iraniens pendant l'été-A REACT.JS project wich is based on Yarn commands.
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
