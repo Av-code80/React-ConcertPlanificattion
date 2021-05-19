@@ -44,5 +44,4 @@ function ConcertInfo() {
     </div>
   );
 }
-
 export default ConcertInfo;
