@@ -4,6 +4,7 @@ import Zoom from "react-reveal/Zoom";
 import icon_calendar from "../../assets/images/icons/calendar.png";
 import icon_location from "../../assets/images/icons/location.png";
 
+
 function ConcertInfo() {
   return (
     <div className="bck_black">
